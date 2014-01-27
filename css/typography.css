@@ -1,11 +1,11 @@
 @charset "UTF-8";
 /* Typography Style Guide */
 /* RGBA VALUES
-		rgba(174,153,98,1.00)
-		rgba(193,180,146,1.00)
-		rgba(0,0,124,1.00)
-		rgba(0,0,0,1.00)
-		rgba(255,255,255,1.00)
+                rgba(174,153,98,1.00)
+                rgba(193,180,146,1.00)
+                rgba(0,0,124,1.00)
+                rgba(0,0,0,1.00)
+                rgba(255,255,255,1.00)
 */
 
 /* HTML & BASIC TEXT STYLES */
@@ -14,33 +14,33 @@ html {
 }
 
 mark {
-	background-color: rgba(0,0,124,1.00);
-	color: rgba(255,255,255,1.00);
+        background-color: rgba(0,0,124,1.00);
+        color: rgba(255,255,255,1.00);
 }
 
 footer, cite {
-	color: 	rgba(174,153,98,1.00);
+        color:         rgba(174,153,98,1.00);
 }
 
 /* LINKS */
 a,
 a:link {
-	color: rgba(174,153,98,1.00);
-	text-decoration: none;
-	border-bottom: 0.1em solid rgba(174,153,98,1.00);
-	transition: all 200ms linear;
+        color: rgba(174,153,98,1.00);
+        text-decoration: none;
+        border-bottom: 0.1em solid rgba(174,153,98,1.00);
+        transition: all 200ms linear;
 }
 
 a:hover,
 a:focus,
 a:active {
-	color: rgba(193,180,146,1.00);
-	border-bottom-color: rgba(193,180,146,1.00);
+        color: rgba(193,180,146,1.00);
+        border-bottom-color: rgba(193,180,146,1.00);
 }
 
 a:visited {
-	color: rgba(174,153,98,1.00);
-	border-bottom-color: rgba(174,153,98,1.00);
+        color: rgba(174,153,98,1.00);
+        border-bottom-color: rgba(174,153,98,1.00);
 }
 
 /* MAIN HEADERS */
@@ -53,13 +53,13 @@ h1, h2, h3, h4, h5, h6, hr {
 }
 
 blockquote, table {
-	font-family: 'Roboto Slab', serif;
-	margin: 0 0 1.5rem;
+        font-family: 'Roboto Slab', serif;
+        margin: 0 0 1.5rem;
 }
 
 caption {
-	font-family: Arial, sans-serif;
-	margin: 0 0 1.5rem;
+        font-family: Arial, sans-serif;
+        margin: 0 0 1.5rem;
 }
 
 
@@ -123,17 +123,17 @@ small, .milli {
 
 /* LISTS */
 ul {
-	list-style-type: none;
+        list-style-type: none;
 }
 
 ul li {
-	position: relative;
+        position: relative;
 }
 
 /* Option+8=regular bullet | Option+Shift+9=smaller bullet */
 ul li:before {
-	content: "•";
-	color: rgba(0,0,0,1.00);
-	position: absolute;
-	left: -1em;
+        content: "•";
+        color: rgba(0,0,0,1.00);
+        position: absolute;
+        left: -1em;
 }
