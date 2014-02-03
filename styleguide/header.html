@@ -7,8 +7,8 @@
 	<meta name="mobileoptimized" content="240">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<link href='http://fonts.googleapis.com/css?family=Roboto+Slab' rel='stylesheet' type='text/css'>
-	<link href="css/reset.css" rel="stylesheet">
-	<link href="css/general.css" rel="stylesheet">
+	<link href="../css/header.css" rel="stylesheet">
+	<link href="../css.reset.css" rell="stylesheet">
 	<link href="../css/common.css" rel="stylesheet">
 	<link href="../css/typography.css" rel="stylesheet">
 	<link href="../css/list-group.css" rel="stylesheet">
@@ -17,22 +17,29 @@
 	<link href="../css/grid.css" rel="stylesheet">
 </head>
 
-<body>
-
+<body class="home"> 
 	<header>
-		<h1>Lorem Ipsum</h1>
-			<h2>Lorem ipsum dolor sit amet.</h2>
-			<a href="#nav" class="nav-btn hide-text" data-state="inactive">Navigation</a>
-			<nav class="nav nav-top" data-state="collapsed">
-				<ul>
-					<li><a href="#">Link 1</a></li>
-					<li><a href="#">Link 2</a></li>
-					<li><a href="#">Link 3</a></li>
-				</ul>
-			</nav>
+		<h1>This is an H1</h1>
+		<h2>This is an H2</h2>
+		<div id="tfheader">
+			<form id="tfnewsearch" method="get" action="http://www.google.com">
+		    <input type="text" class="tftextinput" name="q" size="21" maxlength="120"><input type="submit" value="search" class="tfbutton">
+			</form>
+		<div class="tfclear"></div>
+		</div>
+		
+		<a href="#nav" class="nav-btn hide-text" data-state="inactive">Navigation</a>
+		<nav class="nav nav-top" data-state="collapsed">
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="schedule.html">Products</a></li>
+				<li><a href="prices.html">Contact</a></li>
+			</ul>
+		</nav>
 
 	</header>
 	
-	<script src="js/nav.js"></script>
+	<script src="../js/nav.js"></script>
+
 </body>
 </html>
