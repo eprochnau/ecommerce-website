@@ -69,9 +69,9 @@ img{
 }
 
 .hide-text {
-text-indent: 100%;
-white-space: nowrap;
-overflow: hidden;
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
 }
 
 /* Navigation Styles */
@@ -140,6 +140,7 @@ overflow: hidden;
 	}
 	
 	.nav li{
+		font-family: 'Roboto Slab';
 		float: left;
 		width: 33.33%;
 	}
@@ -162,6 +163,7 @@ overflow: hidden;
 	}
 	
 	.nav li{
+		font-family: 'Roboto-Slab';
 		display: inline-block;
 		float: none;
 		margin: 0;
@@ -232,6 +234,7 @@ overflow: hidden;
 	}
 
 	.nav-top li {
+		font-family: 'Roboto Slab';
 		display: block;
 		border-top: 1px solid #fff;
 	}
@@ -264,6 +267,8 @@ overflow: hidden;
 
 	
 }
+
+
 
 @media only screen and (min-width: 40.625em){
 	.home img{
