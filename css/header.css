@@ -93,11 +93,11 @@ img{
 .nav-btn:hover,
 .nav-btn:focus,
 .nav-btn:active{
-	background-color: #A49C74;
+	background-color: #00003F;
 }
 
 .nav-btn[data-state="active"] {
-	background: #A49C74 url('../images/nav-close.svg') no-repeat center center;
+	background: #00003F url('../images/nav-close.svg') no-repeat center center;
 }
 
 .nav a, 
@@ -116,7 +116,7 @@ img{
 .nav a:hover,
 .nav a:focus,
 .nav a:active{
-	background-color: #A49C74;
+	background-color: #00003F;
 }
 
 	/* Toggle Nav*/
@@ -158,7 +158,7 @@ img{
 
 @media only screen and (min-width: 35em){
 	.nav{
-		background-color: #000033;
+		background-color: #00007C;
 		text-align: center;
 	}
 	
@@ -271,6 +271,11 @@ img{
 
 
 @media only screen and (min-width: 40.625em){
+	h1 {
+		margin-left: 5rem;
+		margin-top: 3rem;
+	}
+	
 	.home img{
 		float: right;
 		width: 50%;
@@ -290,7 +295,7 @@ img{
 
 /* Search Field */
 #tfheader {
-	background-color: #A49C74;
+	background-color: #fff;
 }
 
 #tfnewsearch {
@@ -303,9 +308,11 @@ img{
 	padding: 5px 15px;
 	font-family: 'Roboto Slab', Arial, sans-serif;
 	font-size:14px;
-	border:1px solid #0076a3; border-right:0px;
+	border:1px solid #0076a3;
 	border-top-left-radius: 5px 5px;
 	border-bottom-left-radius: 5px 5px;
+	border-top-right-radius: 5px 5px;
+	border-bottom-right-radius: 5px 5px;
 }
 	
 	
