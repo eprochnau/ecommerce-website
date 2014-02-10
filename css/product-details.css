@@ -8,23 +8,3 @@
 .extra {
 	margin-top: 5rem;
 }
-
-@media only screen and (min-width: 31.25em) {
-	.product {
-		padding: 3rem;
-	}
-}
-
-@media only screen and (min-width: 15em) {
-	.product {
-		padding: 3rem;
-	}
-	
-	.media-img {
-		width: 100%;
-	}
-	
-	.media-body {
-		padding: 3rem;
-	}
-}
