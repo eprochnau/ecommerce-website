@@ -1,9 +1,10 @@
 .footer {
-  background-color: #eae8e1;
+  background-color: #A49C74;
 }
 
 .footer-copyright,
 .footer-links {
+  color: #00003F;
   text-align: center;
 }
 

@@ -1,5 +1,5 @@
 .masthead {
-  background-color: #eae8e1;
+  background-color: #fff;
 }
 
 .logo {
@@ -33,11 +33,6 @@
   }
 
 }
-
-.current {
-	background-color: red;
-}
-
 
 .banner {
 	background: #6e9d1b url("../images/banner.jpg") no-repeat center center;

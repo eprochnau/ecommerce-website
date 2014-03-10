@@ -11,10 +11,10 @@
  */
 
 html {
-  background-color: #f2f1ed;
+  background-color: #fff;
 
   color: #444;
-  font: normal 100%/1.5 Georgia,serif;
+  font: normal 100%/1.5 "Roboto Slab";
 }
 
 h1, h2, h3, h4, h5, h6,
@@ -144,37 +144,37 @@ small, .milli {
 
 h1, h2, h3, h4, h5, h6,
 .brand {
-  color: #5d8432;
-  font-family: "Patua One",serif;
+  color: #A49C74;
+  font-family: "Roboto Slab",serif;
 }
 
 .brand-family {
-  font-family: "Patua One",serif;
+  font-family: "Roboto Slab",serif;
 }
 
 .brand-color {
-  color: #5d8432;
+  color: #00003F;
 }
 
 a,
 a:link {
-  border-bottom: 0.1em solid rgba(121,50,132,0.5);
+  border-bottom: 0.1em solid rgba(0,0,63,1.00);
   transition: all 150ms linear;
 
-  color: #793284;
+  color: #00003F;
   text-decoration: none;
 }
 
 a:visited {
-  color: #68446e;
-  border-bottom-color: rgba(104,68,110,0.5);
+  color: #00007C;
+  border-bottom-color: rgba(0,0,124,1.00);
 }
 
 a:hover,
 a:focus,
 a:active {
-  color: #b42885;
-  border-bottom-color: #b42885;
+  color: #00007C;
+  border-bottom-color: #00007C;
 }
 
 sup,
