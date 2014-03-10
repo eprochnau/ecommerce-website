@@ -1,4 +1,7 @@
 .promo-small {
-	background-color: #c7cae0;
 	border-radius: 10px;
+}
+
+.promo-large {
+	padding: 20rem;
 }
