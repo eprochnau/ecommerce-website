@@ -1,75 +1,22 @@
 @charset "UTF-8";
 /* Buttons */
 
-/* Blue to Navy Buttons */
 .btn,
 .btn:link,
 .btn:visited {
 	display: inline-block;
 	padding: 0.75em 1em;
-	background-color: rgba(0,0,124,1.0));
-	background-image: linear-gradient(to bottom, #00007C, #00003F);
+	background-color: rgba(121,50,132);
+	background-image: linear-gradient(to bottom, #793284, #571062);
 	border-radius: 4px;
-	box-shadow: 1px 1px 3px rgba(0,0,63,1.00);
-	font-family: 'Roboto Slab', Arial, sans-serif;
-	text-transform: uppercase;
+	box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
 	color: #fff;
 	font-weight: bold;
 }
 
-.btn-giga,
-.btn-giga:link,
-.btn-giga:visited {
-	padding: 100rem 1.5em;
-	background-color: #00003F;
-	background-image: linear-gradient(to bottom, #00007C, #00003F);
-	font-family: 'Roboto Slab', Arial, sans-serif;
-	text-transform: uppercase;
+.btn-alt,
+.btn-alt:link,
+.btn-alt:visited {
+	background-color: #5d8432;
+	background-image: linear-gradient(to bottom, #5d8432, #3b6219);
 }
-
-.btn-micro,
-.btn-micro:link,
-.btn-giga:visited {
-	padding: 0.50rem 0.5em;
-	background-color: #00003F;
-	background-image: linear-gradient(to bottom, #00007C, #00003F);
-	font-family: 'Roboto Slab', Arial, sans-serif;
-	text-transform: uppercase;
-}
-
-/* Gold to Navy Buttons */
-.btn-gold,
-.btn-gold:link,
-.btn-gold:visited {
-	display: inline-block;
-	padding: 0.75em 1em;
-	background-color: rgba(0,0,124,1.00);
-	background-image: linear-gradient(to bottom, #A49C74, #00003F);
-	border-radius: 4px;
-	box-shadow: 1px 1px 3px rgba(0,0,63,1.00);
-	font-family: 'Roboto Slab', Arial, sans-serif;
-	text-transform: uppercase;
-	color: #fff;
-	font-weight: bold;
-}
-
-.btn-gold-giga,
-.btn-gold-giga:link,
-.btn-gold-giga:visited {
-	padding: 100rem 1.5em;
-	background-color: #00003F;
-	background-image: linear-gradient(to bottom, #A49C74, #00003F);
-	font-family: 'Roboto Slab', Arial, sans-serif;
-	text-transform: uppercase;
-}
-
-.btn-gold-micro,
-.btn-gold-micro:link,
-.btn-gold-giga:visited {
-	padding: 0.50rem 0.5em;
-	background-color: #00003F;
-	background-image: linear-gradient(to bottom, #A49C74, #00003F);
-	font-family: 'Roboto Slab', Arial, sans-serif;
-	text-transform: uppercase;
-}
-

@@ -2,6 +2,7 @@
 /* Media Object */
 
 .media {
+	border: 1px solid red;
 	overflow: hidden;
 }
 

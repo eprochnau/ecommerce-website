@@ -1,3 +1,4 @@
-@charset "UTF-8";
-/* Buckets */
-
+.promo-small {
+	background-color: #c7cae0;
+	border-radius: 10px;
+}

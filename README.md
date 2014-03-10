@@ -1,4 +1,4 @@
-ecommerce-website
+inclass-ecommerce
 =================
 
-Semester website project.
+A demonstration repo for in class website design
