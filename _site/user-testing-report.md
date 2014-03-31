@@ -1,38 +1,55 @@
-# User Testing Report
+# Accessibility Testing Report
 
-User testing was conducted by {your name} on {specific date} between the times of {start time} and {end time} with the following participants:
+User testing was conducted by {Emily Prochnau} on {March 31} between the times of {9:10 AM} and {11:00 AM} with the following participants:
 
-- {Brittany Robertson}
 - {Brittany Hogg}
 - {Kayla Arujo}
+- {Grant Jeffery}
+- {Adriana Granieri}
+- {Todd Doe}
+- {Taylor Doe}
 
 ## Tasks
 
-1. {Does the search bar take you to the correct search page}
-2. {Navigate through each button on the nav pages for information}
-3. {Add something to your cart and follow through to check out}
+1. {Navigate through just the navigation and it's pages} | V
+2. {Navigate through and find the info on the about page} | T
+3. {Find the search bar, enter something, then read details of searched product}
 
 ---
 
 ## Individual Results & Observations
 
-### {Brittany Robertson}
-
-- Navigated through the search field
-- Was confused by the image, needs clarification that it's a live image and can be clicked
-
 ### {Brittany Hogg}
 
-- Navigated the site well
-- Had issues because the CSS isn't working
-- Only one button to buy the product is frustrating and hard to find
-- The buttons don't appear as buttons because the CSS is not functioning properly
+- {Completed task 1 using the tab navigation tool.}
+- {Completed the task as normal, however the thank-you tab didn't work because it is currently in the cart folder, and the product pages should be linked in it's place.}
 
 ### {Kayla Arujo}
 
-- Took a while to click on the link as button was hard to find
-- Navigation of home page was hard because the CSS hasn't been fixed yet
-- Liked how the check out page lets you know what product you've chosen
+- {Completed task 2 using the voice over tool.}
+- {Had issues with the voice over, wouldn't work just by using the arrow keys. She had to use the tab key instead.}
+- {The info didn't read on the about page. Skipped from the h1 to the social media buttons in the foother.}
+
+### {Grant Jeffery}
+
+- {Completed task 3 using the voice over tool.}
+- {Completed the task with no difficulties. Was able to read all text and didn't have the same issue Kayla did.}
+
+### {Adriana Granieri}
+
+- {Completed task 3 using the tab tool.}
+- {Completed the task without a problem, all images and text highlight and can be read on the searched product page.}
+### {Todd Doe}
+
+- {He completed the task as expected…}
+- {He had troubles completing a specific task…}
+- etc.
+
+### {Taylor Doe}
+
+- {They completed the task as expected…}
+- {They had troubles completing a specific task…}
+- etc.
 
 ---
 
@@ -40,13 +57,15 @@ User testing was conducted by {your name} on {specific date} between the times o
 
 ### Critical, Needs Fixing, Unable to Complete
 
-- Missing product descriptions, need to add
-- Need to correct CSS on homepage for large and small promos
+- {All participants had this problem…}
+- etc.
 
 ### Serious, Causes Frustration, May Hinder Completion
 
-- When image is searched, unclear that you can click on the image
+- {Two of the participants succeeded where one of them failed…}
+- etc.
 
 ### Minor, Annoying, Won’t Hinder Completion
 
-- All trends are either serious or critical
+- {Participants pointed out this inconsistency…}
+- etc.
