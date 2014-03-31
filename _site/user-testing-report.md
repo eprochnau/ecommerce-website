@@ -6,13 +6,13 @@ User testing was conducted by {Emily Prochnau} on {March 31} between the times o
 - {Kayla Arujo}
 - {Grant Jeffery}
 - {Adriana Granieri}
-- {Todd Doe}
-- {Taylor Doe}
+- {Julia Paddick}
+- {Rudy Gordon}
 
 ## Tasks
 
-1. {Navigate through just the navigation and it's pages} | V
-2. {Navigate through and find the info on the about page} | T
+1. {Navigate through just the navigation and it's pages}
+2. {Navigate through and find the info on the about page}
 3. {Find the search bar, enter something, then read details of searched product}
 
 ---
@@ -39,17 +39,16 @@ User testing was conducted by {Emily Prochnau} on {March 31} between the times o
 
 - {Completed task 3 using the tab tool.}
 - {Completed the task without a problem, all images and text highlight and can be read on the searched product page.}
-### {Todd Doe}
 
-- {He completed the task as expected…}
-- {He had troubles completing a specific task…}
-- etc.
+### {Julia Paddick}
 
-### {Taylor Doe}
+- {Completed task 2 using the tab navigation tool.}
+- {Simple, easy to use, was easy to navigate without a problem.}
 
-- {They completed the task as expected…}
-- {They had troubles completing a specific task…}
-- etc.
+### {Rudy Gordon}
+
+- {Completed task 1 using the voice over tool.}
+- {Comeplted the task easily, had the same issue as Kayla where the arrow keys didn't work for navigation and only the tab key worked.}
 
 ---
 
@@ -57,15 +56,13 @@ User testing was conducted by {Emily Prochnau} on {March 31} between the times o
 
 ### Critical, Needs Fixing, Unable to Complete
 
-- {All participants had this problem…}
-- etc.
+- {No critical fixes.}
 
 ### Serious, Causes Frustration, May Hinder Completion
 
-- {Two of the participants succeeded where one of them failed…}
-- etc.
+- {No serious fixes.}
 
 ### Minor, Annoying, Won’t Hinder Completion
 
-- {Participants pointed out this inconsistency…}
-- etc.
+- {Participants pointed out that sometimes the arrow keys didn't work for navigation and they had to resort do the tab key.}
+- {Somewhat frustrating, but users were able to navigate properly with the tab key in it's place.}
