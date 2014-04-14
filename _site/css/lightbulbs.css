@@ -972,3 +972,7 @@ body {
 .promo-large img {
 	
 }
+
+img {
+	width: 50%;
+}
