@@ -1,6 +1,7 @@
 # humanstxt.org
 
 # TEAM
+Emily Prochnau
 
 
 
@@ -13,5 +14,11 @@ Public domain images from copyrightexpired.com
 ---
 
 # TECHNOLOGY
+
+---
+
+# COPYRIGHT
+
+All images are public domain or taken from a creative commons.
 
 
