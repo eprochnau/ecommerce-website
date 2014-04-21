@@ -2,3 +2,20 @@
 layout: default
 title: Home
 ---
+
+<main role="main">
+	<h1>Product we carry</h1>
+	<p>Here are all the lightbulbs in one place.</p>
+</main>
+
+<div class="grid">
+		<div class="gutter unit unit-s-1 unit-m-1-3 unit-l-1-3">
+		{% include filter-1.html title="White Bulbs" desc="Lightbulbs with a white colour cast" %}
+		</div>
+		
+<div class="grid">
+		<div class="gutter unit unit-s-1 unit-m-1-3 unit-l-1-3">
+		{% include filter-2.html title="Coloured bulbs" desc="Lightbulbs with a colour cast" %}
+		</div>
+</div>
+		
